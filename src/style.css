@@ -8,10 +8,6 @@ body {
 main {
     display: grid;
     grid-template-columns: 50% 50%;
-    align-items: center;
-    justify-content: center; 
-
-
 }
 
 
@@ -24,6 +20,8 @@ main {
     padding: .0em .5em .1em .5em;
     margin-bottom: .10em;
     margin-top: .3em;
+    align-items: center;
+    justify-content: center; 
 }
 
 h1 {

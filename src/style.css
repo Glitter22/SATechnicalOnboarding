@@ -7,12 +7,12 @@ body {
 
 main {
     display: grid;
-    grid-template-columns: 70% 0%;
+    grid-template-columns: 400% 0%;
 }
 
 
 .box {
-    box-shadow: .1em .1em .2em #f0b3ff;
+    box-shadow: .1em .1em .1em #f0b3ff;
     border-radius: .4em;
     border-width: .01em;
     border-style: solid;

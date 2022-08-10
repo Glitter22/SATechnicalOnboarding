@@ -45,3 +45,7 @@ ul {
     list-style-type: circle;
     padding-left: 1.4em;
 }
+li {
+    color: rgb(242, 241, 243);
+    font-size: 1em;
+}

@@ -13,8 +13,6 @@ main {
     padding: 15em;
 
 }
-
-
 .box {
     color: white;
     background: rgba(255,255,255,0.3);
@@ -28,7 +26,13 @@ main {
     box-sizing: border-box;
     margin:5px;
 }
-
+.image--cover {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center right;
+  }
 h1 {
     color: rgb(243, 233, 245);
     margin: 0em;

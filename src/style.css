@@ -22,9 +22,9 @@ main {
     transition: all 0.5s ease-in-out;
     text-align: center;
     border-radius: 20px;
-    border-spacing: 15px;
+    border-spacing: 10px;
     box-sizing: border-box;
-    margin:5px;
+    margin:7px;
 }
 .image--cover {
     width: 15px;

@@ -17,17 +17,14 @@ main {
 .box {
     color: white;
     background: rgba(255,255,255,0.3);
+    border: 1px solid rgba(255,255,255,0.3);
     backdrop-filter: blur(10px);
     box-shadow: 20px 20px 40px -6px rgba(0,0,0,0.2);
     transition: all 0.5s ease-in-out;
     text-align: center;
-    position: absolute;
-    width: 199px;
-    height: 53px;
-    left: 116px;
-    top: 18px;
-    border: 1px solid #F7F7F7;
-    border-radius: 13px;
+    border-radius: 20px;
+    border-spacing: 15px;
+    box-sizing: border-box
 }
 
 h1 {
